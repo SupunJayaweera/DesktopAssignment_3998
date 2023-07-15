@@ -1,1 +1,1 @@
-# DesktopAssignment
+# Student Management System
